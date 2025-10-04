@@ -7,7 +7,7 @@ import Register from '../pages/Register.vue';
 const routes = [
     { path: '/',                component: Home, },
     { path: '/login',        component: Login, },
-    { path: '/sign-in',    component: Register, },
+    { path: '/signin',    component: Register, },
     { path: '/publicaciones',   component: Publicaciones, }
 ];
 
